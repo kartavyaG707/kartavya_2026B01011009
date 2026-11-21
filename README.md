@@ -178,4 +178,4 @@ The following tools and libraries were used in this project:
 
 **Kartavya Gupta**
 
-GitHub: [karan-baghel](https://github.com/karan-baghel)
+GitHub: [kartavyaG707](https://github.com/kartavyaG707)
